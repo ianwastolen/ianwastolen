@@ -1,0 +1,3 @@
+- 👋 @ianwastolen
+- 👀 I’m interested in software manipulation.
+- 🌱 I’m currently learning C++ and PHP.
